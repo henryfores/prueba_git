@@ -1,0 +1,9 @@
+--aca hago un HTML-- y lo dejo en la carpeta ClaseGIT
+<html>
+<head>
+<title>Bienvenido a mi proyecto</title>
+</head>
+<body>
+<h1>Este es mi proyecto</h1>
+</body>
+</html>
